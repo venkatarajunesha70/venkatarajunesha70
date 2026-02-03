@@ -35,15 +35,14 @@ I enjoy working on challenging problems involving LLMs, RAG pipelines, deep lear
   <img src="https://img.shields.io/badge/NLP-%234B8BBE?style=for-the-badge&logo=semanticweb&logoColor=white"/>
 </p>
 
-
 ### ☁️ Cloud & DevOps
 <p>
-  <img src="https://img.shields.io/badge/AWS-%23FF9900?style=for-the-badge&logo=amazon&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-%230db7ed?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kubernetes-%23326ce5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Terraform-%235835CC?style=for-the-badge&logo=terraform&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Ansible-%23EE0000?style=for-the-badge&logo=ansible&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CICD-%23121011?style=for-the-badge&logo=githubactions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Terraform-5835CC?style=for-the-badge&logo=terraform&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CI%2FCD-121011?style=for-the-badge&logo=githubactions&logoColor=white"/>
 </p>
 
 ### ⚙️ Backend & Databases
