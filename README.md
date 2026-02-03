@@ -48,10 +48,10 @@ I enjoy working on challenging problems involving LLMs, RAG pipelines, deep lear
 
 ### ⚙️ Backend & Databases
 <p> 
-  <img src="https://img.shields.io/badge/Django-%2343853D?style=for-the-badge&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-%2300C7B7?style=for-the-badge&logo=fastapi&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/MongoDB-%2347A248?style=for-the-badge&logo=mongodb&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/MySQL-%234479A5?style=for-the-badge&logo=mysql&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-00C7B7?style=for-the-badge&logo=fastapi&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/MySQL-4479A5?style=for-the-badge&logo=mysql&logoColor=white"/> 
 </p>
 
 
