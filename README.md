@@ -2,7 +2,6 @@
 <h3 align="center">AI & Cloud Engineer </h3>
 
 <p align="center">
-  <a href="https://venkatarajunesha70.github.io/venkatarajunesha70/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%230A0A0A?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/venkata-raju-nesha-646991216/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/venkatarajunesha70" target="_blank"><img src="https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
@@ -21,6 +20,7 @@ I enjoy working on challenging problems involving LLMs, RAG pipelines, deep lear
 
 ### 👨‍💻 Programming Languages
 <p>
+  <img src="https://img.shields.io/badge/C++-%23F7DF1E?style=for-the-badge&logo=cpp&logoColor=black"/>
   <img src="https://img.shields.io/badge/Python-%2314354C?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
@@ -48,7 +48,7 @@ I enjoy working on challenging problems involving LLMs, RAG pipelines, deep lear
 
 ### ⚙️ Backend & Databases
 <p> 
-  <img src="https://img.shields.io/badge/Node.js-%2343853D?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-%2343853D?style=for-the-badge&logo=django&logoColor=white"/>
   <img src="https://img.shields.io/badge/FastAPI-%2300C7B7?style=for-the-badge&logo=fastapi&logoColor=white"/> 
   <img src="https://img.shields.io/badge/MongoDB-%2347A248?style=for-the-badge&logo=mongodb&logoColor=white"/> 
   <img src="https://img.shields.io/badge/MySQL-%234479A5?style=for-the-badge&logo=mysql&logoColor=white"/> 
@@ -68,7 +68,6 @@ I enjoy working on challenging problems involving LLMs, RAG pipelines, deep lear
 
 ## 🔗 Connect With Me
 
-- 💼 Portfolio: [venkatarajunesha70.github.io/venkatarajunesha70](https://venkatarajunesha70.github.io/venkatarajunesha70/)
 - 💼 LinkedIn: [linkedin.com/in/venkata-raju-nesha-646991216](https://www.linkedin.com/in/venkata-raju-nesha-646991216/)
 - 💻 GitHub: [github.com/venkatarajunesha70](https://github.com/venkatarajunesha70)
 
