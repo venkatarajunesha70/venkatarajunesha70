@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Venkataraju</h1>
-<h3 align="center">AI & Cloud Engineer </h3>
+<h3 align="center">AI Software Engineer </h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/venkata-raju-nesha-646991216/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -10,9 +10,9 @@
 
 ## 🧠 About Me
 
-Hello! I'm Venkataraju, an AI and Cloud Engineer specializing in designing, deploying, and maintaining scalable cloud-native applications and AI systems. I focus on cloud infrastructure, DevOps practices, and deep learning solutions with production-ready MLOps workflows.
+I’m an AI Software Engineer with expertise in AI systems, Cloud Computing, and Full-Stack Web Development. I specialize in designing, deploying, and maintaining scalable cloud-native applications, production-ready AI solutions, and modern web platforms.
 
-I enjoy working on challenging problems involving LLMs, RAG pipelines, deep learning, and cloud automation. I’m passionate about leveraging modern tech to build intelligent, secure, and scalable systems.
+I work extensively with LLMs, RAG pipelines, deep learning models, and MLOps workflows, ensuring AI systems are reliable, secure, and ready for real-world use. Alongside AI, I build high-performance web applications using modern frontend and backend technologies, integrated seamlessly with cloud infrastructure.
 
 ---
 
