@@ -20,7 +20,6 @@ I enjoy working on challenging problems involving LLMs, RAG pipelines, deep lear
 
 ### 👨‍💻 Programming Languages
 <p>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
@@ -30,9 +29,9 @@ I enjoy working on challenging problems involving LLMs, RAG pipelines, deep lear
   <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/LLMs-%236472D1?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NLP-%234B8BBE?style=for-the-badge&logo=semanticweb&logoColor=white"/>
   <img src="https://img.shields.io/badge/RAG-%2300CED1?style=for-the-badge&logo=knowledgebase&logoColor=white"/>
   <img src="https://img.shields.io/badge/Deep%20Learning-%23121011?style=for-the-badge&logo=brain&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NLP-%234B8BBE?style=for-the-badge&logo=semanticweb&logoColor=white"/>
 </p>
 
 ### ☁️ Cloud & DevOps
@@ -45,14 +44,17 @@ I enjoy working on challenging problems involving LLMs, RAG pipelines, deep lear
   <img src="https://img.shields.io/badge/CI%2FCD-121011?style=for-the-badge&logo=githubactions&logoColor=white"/>
 </p>
 
-### ⚙️ Backend & Databases
+### 💻 Web Development
 <p> 
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/FastAPI-00C7B7?style=for-the-badge&logo=fastapi&logoColor=white"/> 
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/> 
   <img src="https://img.shields.io/badge/MySQL-4479A5?style=for-the-badge&logo=mysql&logoColor=white"/> 
-</p>
-
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</p> 
 
 ---
 
