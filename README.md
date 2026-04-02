@@ -69,7 +69,8 @@ I specialize in transforming complex ideas into **robust, high-performance appli
 
 ##  GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=venkatarajunesha70&show_icons=true&theme=radical&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=venkatarajunesha70&theme=radical)
+
 ---
 
-##  Let's Build Something Amazing Together!
+###  Let's Build Something Amazing Together!
