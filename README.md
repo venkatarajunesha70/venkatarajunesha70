@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Venkataraju
 
- **AI Software Engineer | Cloud Engineer | Full Stack Engineer**  
+ **AI Engineer | Cloud Engineer | Full Stack Engineer**  
   Building intelligent, scalable, and production-ready AI-powered systems  
 
 ---
