@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Venkataraju
 
- **AI Engineer | Cloud Engineer | Full Stack Engineer**  
+ **AI Engineer | Cloud Engineer | Backend Engineer**  
   Building intelligent, scalable, and production-ready AI-powered systems  
 
 ---
@@ -54,7 +54,7 @@ I specialize in transforming complex ideas into **robust, high-performance appli
 
 -  **AI Engineer** – LLM apps, RAG pipelines, NLP systems, deep learning models  
 -  **Cloud Engineer** – Scalable cloud architecture, DevOps automation, CI/CD pipelines  
--  **Full Stack Engineer** – End-to-end web apps with modern frameworks  
+-  **Backend Engineer** – End-to-end web apps with modern frameworks  
 
 ---
 
