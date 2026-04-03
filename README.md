@@ -62,7 +62,7 @@ I specialize in transforming complex ideas into **robust, high-performance appli
 
 -  Email: venkatarajunesha70@gmail.com
 -  Phone: +91 9000216712
--  LinkedIn: https://linkedin.com/in/your-profile  
+-  LinkedIn: https://www.linkedin.com/in/venkata-raju-nesha-646991216/
 -  GitHub: https://github.com/venkatarajunesha70
 
 ---
