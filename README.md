@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Venkataraju Nesha
 
-### AI Engineer | Cloud Engineer | Backend Developer 
+### AI Engineer | Cloud Engineer | API Developer 
 
 I'm a Software Engineer with 3+ years of experience building AI-powered applications and deploying them at scale. I specialize in developing machine learning models, integrating LLMs into production systems, and building cloud-native AI solutions. My expertise includes Agentic AI, RAG systems, MLOps, backend development, and cloud infrastructure. I'm passionate about transforming cutting-edge AI research into real-world products that deliver business impact. Currently, I'm focused on building autonomous AI agents using LangChain and LangGraph.
 
@@ -57,18 +57,7 @@ I'm a Software Engineer with 3+ years of experience building AI-powered applicat
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=venkatarajunesha70&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=venkatarajunesha70&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=venkatarajunesha70&theme=tokyonight&hide_border=true"/>
-</p>
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=venkatarajunesha70\&theme=github-dark)
-
-
 
 ---
 
