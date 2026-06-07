@@ -6,8 +6,6 @@ I'm a Software Engineer with 3+ years of experience building AI-powered applicat
 
 ---
 
-## 🚀 Skills
-
 ### Programming Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
@@ -59,11 +57,18 @@ I'm a Software Engineer with 3+ years of experience building AI-powered applicat
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=venkatarajunesha70\&show_icons=true\&theme=github_dark)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=venkatarajunesha70&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=venkatarajunesha70&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=venkatarajunesha70\&layout=compact\&theme=github_dark)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=venkatarajunesha70&theme=tokyonight&hide_border=true"/>
+</p>
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=venkatarajunesha70\&theme=github-dark)
+
+
 
 ---
 
