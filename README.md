@@ -1,8 +1,8 @@
 # Hi there 👋, I'm Venkataraju Nesha
 
-### AI Engineer | Cloud Engineer | API Developer 
+### AI Software Engineer 
 
-I'm a Software Engineer with 3+ years of experience building AI-powered applications and deploying them at scale. I specialize in developing machine learning models, integrating LLMs into production systems, and building cloud-native AI solutions. My expertise includes Agentic AI, RAG systems, MLOps, backend development, and cloud infrastructure. I'm passionate about transforming cutting-edge AI research into real-world products that deliver business impact. Currently, I'm focused on building autonomous AI agents using LangChain and LangGraph.
+I'm a AI Software Engineer with 3+ years of experience building AI-powered applications and deploying them at scale. I specialize in developing machine learning models, integrating LLMs into production systems, and building cloud-native AI solutions. My expertise includes Agentic AI, RAG systems, MLOps, backend development, and cloud infrastructure. I'm passionate about transforming cutting-edge AI research into real-world products that deliver business impact. Currently, I'm focused on building autonomous AI agents using LangChain and LangGraph.
 
 ---
 
@@ -11,12 +11,14 @@ I'm a Software Engineer with 3+ years of experience building AI-powered applicat
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 
-### AI / Machine Learning
+### AI & LLMs
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch\&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)
 ![LangGraph](https://img.shields.io/badge/LangGraph-00A67E?style=for-the-badge)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge)
+![FAISS](https://img.shields.io/badge/FAISS-00599C?style=for-the-badge)
 
 ### Backend & Databases
 
@@ -25,12 +27,6 @@ I'm a Software Engineer with 3+ years of experience building AI-powered applicat
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge\&logo=redis\&logoColor=white)
-
-### Vector Databases
-
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge)
-![FAISS](https://img.shields.io/badge/FAISS-00599C?style=for-the-badge)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-663399?style=for-the-badge)
 
 ### Cloud & DevOps
 
