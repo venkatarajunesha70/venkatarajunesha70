@@ -8,9 +8,8 @@ I'm a AI Software Engineer with 3+ years of experience building AI-powered appli
 
 ### Programming Languages
 
-![Python](https://img.shields.io/badge/Python-FFC107?style=for-the-badge&logo=python&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### AI & LLMs
 
@@ -18,8 +17,10 @@ I'm a AI Software Engineer with 3+ years of experience building AI-powered appli
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch\&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)
 ![LangGraph](https://img.shields.io/badge/LangGraph-00A67E?style=for-the-badge)
+![LangSmith](https://img.shields.io/badge/LangSmith-01754F?style=for-the-badge)
 ![VectorDB](https://img.shields.io/badge/VectorDB-000000?style=for-the-badge)
 ![RAG](https://img.shields.io/badge/RAG-00599C?style=for-the-badge)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
 ### Backend & Databases
 
