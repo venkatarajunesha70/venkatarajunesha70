@@ -38,8 +38,6 @@ I'm a AI Software Engineer with 3+ years of experience building AI-powered appli
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge\&logo=github-actions\&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
 ![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CE2?style=for-the-badge&logo=apache-airflow&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge\&logo=terraform\&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge\&logo=ansible\&logoColor=white)
 
 ---
 
